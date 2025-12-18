@@ -1,0 +1,17 @@
+{
+  "name": "Date Display",
+  "id": "1583446112792638592",
+  "api": "1.0.0",
+  "widgetApi": "1.0.0",
+  "main": "code.js",
+  "capabilities": [],
+  "enableProposedApi": false,
+  "documentAccess": "dynamic-page",
+  "editorType": [
+    "figjam"
+  ],
+  "containsWidget": true,
+  "networkAccess": {
+    "allowedDomains": ["none"]
+  }
+}

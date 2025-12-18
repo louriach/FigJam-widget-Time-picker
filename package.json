@@ -1,0 +1,22 @@
+{
+  "name": "figjam-time-picker-widget",
+  "version": "1.0.0",
+  "description": "A time picker widget for FigJam",
+  "main": "code.js",
+  "scripts": {
+    "build": "tsc",
+    "watch": "tsc --watch"
+  },
+  "keywords": [
+    "figjam",
+    "widget",
+    "time-picker"
+  ],
+  "author": "",
+  "license": "MIT",
+  "devDependencies": {
+    "@figma/plugin-typings": "^1.90.0",
+    "@figma/widget-typings": "^1.9.0",
+    "typescript": "^5.3.0"
+  }
+}
